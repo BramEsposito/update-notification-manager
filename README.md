@@ -7,4 +7,4 @@ Hide update notifications from everybody except admins related to:
 - plugin updates
 - theme updates
 
-Hide notificitaion related to old or insecure PHP versions
+Hide notification related to old or insecure PHP versions on the WordPress Dashboard
