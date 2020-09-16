@@ -1,0 +1,13 @@
+{
+    "name": "bramesposito/update-notification-manager",
+    "description": "Manage update notification visibility for WordPress",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Bram Esposito",
+            "email": "bram@bramesposito.com"
+        }
+    ],
+    "require": {}
+}
